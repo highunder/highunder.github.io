@@ -1,22 +1,4 @@
-title: highunder
-url: "https://highunder.github.io/"
-
-plugins:
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
-markdown: kramdown
-collections:
-  my_tags:
-    output: true
-    permalink: /tagged/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: tagged
-permalink: /blog/:slug
-timezone: Japan/Tokyo
-future: false
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
