@@ -1,3 +1,8 @@
+---
+layout: default
+title: UbuntuにNEUTRINO Diffusion Muon v2.2をインストール
+---
+
 # UbuntuにNEUTRINO Diffusion Muon v2.2をインストール
 
 このメモによって引き起こされた森羅万象についてひぐは一切の責任を負いかねます。**諦めろ**。
