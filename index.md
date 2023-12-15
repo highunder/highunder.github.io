@@ -9,5 +9,5 @@ title: top page
 
 ## 活動&連絡先
 
-* https://mstdn.jp/@highunder
-* https://misskey.noellabo.jp/@highunder
+* [mstdn.jp](https://mstdn.jp/@highunde)
+* [misskey.noellabo.jp](https://misskey.noellabo.jp/@highunder)
