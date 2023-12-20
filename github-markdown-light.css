@@ -197,6 +197,7 @@
 }
 
  table {
+  border: 3px solid black;
   border-spacing: 0;
   border-collapse: collapse;
   display: block;
