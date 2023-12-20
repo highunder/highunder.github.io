@@ -11,7 +11,7 @@ title: top page
 
 ## 活動&連絡先
 
-* [mstdn.jp](https://mstdn.jp/@highunde)
+* [mstdn.jp](https://mstdn.jp/@highunder)
 * [misskey.noellabo.jp](https://misskey.noellabo.jp/@highunder)
 
 ## 書いたの
